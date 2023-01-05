@@ -26,3 +26,11 @@ https://css-tricks.com/
 https://tailwindcss.com/docs/customizing-colors
 
 https://undraw.co/illustrations
+
+https://gateway-api.sigs.k8s.io/guides/http-routing/#:~:text=The%20HTTPRoute%20resource%20allows%20you,it%20to%20different%20Kubernetes%20Services.
+
+https://eloquentjavascript.net/
+
+https://javascript.info/introduction-browser-events
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
