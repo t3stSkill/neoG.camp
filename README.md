@@ -18,3 +18,11 @@ chore - updating build tasks, package manager configs, etc
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
+
+https://en.bem.info/methodology/
+
+https://css-tricks.com/
+
+https://tailwindcss.com/docs/customizing-colors
+
+https://undraw.co/illustrations
